@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoExpandedMap", "AutoExpandedMap\AutoExpandedMap.vcxproj", "{CA6F8717-9367-4568-85E9-34DBCE676A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Debug|x64.ActiveCfg = Debug|x64
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Debug|x64.Build.0 = Debug|x64
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Debug|x86.ActiveCfg = Debug|Win32
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Debug|x86.Build.0 = Debug|Win32
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Release|x64.ActiveCfg = Release|x64
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Release|x64.Build.0 = Release|x64
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Release|x86.ActiveCfg = Release|Win32
+		{CA6F8717-9367-4568-85E9-34DBCE676A90}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A8AE2EE-5817-4DFB-9B4D-89117151511F}
+	EndGlobalSection
+EndGlobal

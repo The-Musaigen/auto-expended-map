@@ -1,0 +1,3 @@
+[submodule "AutoExpandedMap/third-party/memwrapper"]
+	path = AutoExpandedMap/third-party/memwrapper
+	url = https://github.com/The-Musaigen/memwrapper.git
